@@ -18,7 +18,7 @@ const Hero = () => {
     },
     {
       id: 3,
-      link: "https://www.linkedin.com/in/izzul-hazim-bin-zahba-546924228",
+      link: "https://www.linkedin.com/in/izzul-zahba",
       icon: <FaLinkedin />,
     },
   ];
