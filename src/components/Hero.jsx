@@ -78,7 +78,7 @@ const Hero = () => {
           className="h-60 w-60 rounded-xl bg-gradient-to-b from-rose-600 object-cover object-top pt-5 hover:animate-spin md:h-72 md:w-72"
         />
         <a
-          href="/dummy-resume.pdf"
+          href="/Resume.pdf"
           download={true}
           className="mt-10 flex items-center justify-center rounded-3xl bg-gradient-to-r from-rose-600 to-teal-500 py-2 text-white hover:animate-pulse"
         >
