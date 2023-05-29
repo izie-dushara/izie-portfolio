@@ -75,7 +75,7 @@ const Hero = () => {
         <img
           src={avatar}
           alt="avatar"
-          className="h-60 w-60 rounded-xl bg-gradient-to-b from-rose-600 object-cover object-top pt-5 hover:animate-spin md:h-72 md:w-72"
+          className="h-60 w-60 rounded-xl bg-gradient-to-b from-rose-600 object-cover object-top pt-5 md:h-72 md:w-72"
         />
         <a
           href="/Resume.pdf"

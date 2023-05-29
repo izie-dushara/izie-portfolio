@@ -1,10 +1,4 @@
-import Header from "./components/Header";
-import Hero from "./components/Hero";
-import Portfolio from "./components/Portfolio";
-import Services from "./components/Services";
-import Testimonials from "./components/Testimonials";
-import Contact from "./components/Contact";
-import Footer from "./components/Footer";
+import { Header, Hero, Portfolio, Services, Testimonials, Contact, Footer} from './components';
 import { useState } from "react";
 
 function App() {
